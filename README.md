@@ -1,2 +1,5 @@
-# aboutblank-redirect
-Takes a URL and opens it in a about:blank tab so school spyware apps/extensions can't see what you are doing.
+# How to use
+To use this, fork the repo and edit "index.html" and replace "INSERT URL HERE" with the URL you want to redirect to.
+
+# Credits
+https://github.com/NRZT555/about-blank-cloaker - Most of the code
