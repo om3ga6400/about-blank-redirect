@@ -6,6 +6,6 @@ iframe.style.border = 'none';
 iframe.style.width = '100%';
 iframe.style.height = '100%';
 iframe.style.margin = '0';
-iframe.src = 'https://github.com/OM3GA6400';
+iframe.src = '';
 win.document.body.appendChild(iframe);
   window.close();
