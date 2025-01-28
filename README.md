@@ -15,7 +15,7 @@ javascript: var win = window.open();   win.document.body.style.margin = '0';   w
 If this dosent work make sure to enable popups!
 
 # Example
-https://om3ga6400.github.io/aboutblank-redirect/
+https://om3ga6400.github.io/about-blank-redirect/
 
 # Credits
 https://github.com/NRZT555/about-blank-cloaker - Most of the code
